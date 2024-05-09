@@ -15,3 +15,6 @@
 ![image](https://github.com/cotangence/homework_terraform0/assets/160312212/20456b00-875f-4e39-a525-eee28a56fb0c)
 
 7) 
+![image](https://github.com/cotangence/homework_terraform0/assets/160312212/e47b3d13-26cf-4b3e-824b-566d9e1aba40)
+
+8)
