@@ -17,4 +17,5 @@
 7) 
 ![image](https://github.com/cotangence/homework_terraform0/assets/160312212/e47b3d13-26cf-4b3e-824b-566d9e1aba40)
 
-8)
+8) образ nginx:latest не был удален т.к. был указан параметр keep_locally = true
+![image](https://github.com/cotangence/homework_terraform0/assets/160312212/9cc3784e-b399-4607-bf0c-b0018db10578)
